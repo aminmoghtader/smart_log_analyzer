@@ -41,3 +41,6 @@ pip install -r requirements.txt
 
 python -m analyzer.main --source "sample_logs/" --output "reports/final_report.json" --pretty
 pytest -v 
+License
+
+MIT License © 2025 Amin Moghtader
