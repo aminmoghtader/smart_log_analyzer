@@ -1,7 +1,0 @@
-mkdir -p smart_log_analyzer/{analyzer,tests,sample_logs}
-cd smart_log_analyzer
-touch analyzer/{__init__.py,parser.py,processor.py,file_utils.p
-y,main.py}
-touch tests/{__init__.py,test_parser.py}
-touch sample_logs/server.log
-touch .gitignore requirements.txt README.md
